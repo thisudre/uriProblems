@@ -1,2 +1,2 @@
 # uriProblems
-Problems from URI I've solved
+Solved problems from uri
